@@ -26,5 +26,5 @@ def save_features(file_list,file_name):
         feature_label.append(np.append(feature,np.array(label)))
     np.save(file_name,np.array(feature_label, dtype=object)) #add 'dtype=object'
 if __name__ == "__main__":
-    save_features("test_file_list.txt","/features/test_feature.npy")
-    save_features("train_file_list.txt","/features/train_feature.npy")
+    save_features("test_file_list.txt","features/test_feature.npy")
+    save_features("train_file_list.txt","features/train_feature.npy")
