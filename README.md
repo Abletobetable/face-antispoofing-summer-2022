@@ -54,3 +54,10 @@ zip file for data_256: features_256.zip
 classicML_metrics.ipnb
 
 classicML_results.zip
+
+
+#### feel free to contact with me:
+
+https://t.me/abletobetable
+
+abletobetable@mail.ru
