@@ -1,5 +1,15 @@
 # face-antispoofing-summer-2022
 
+### Стек технологий:
+
+- pytorch
+ 
+- sklearn
+
+- opencv
+
+- wandb
+
 Facial anti-spoofing is the task of preventing false facial verification by using a photo, video, mask or a different substitute for an authorized person’s face. Some examples of attacks:
 
 Print attack: The attacker uses someone’s photo. The image is printed or displayed on a digital device.
